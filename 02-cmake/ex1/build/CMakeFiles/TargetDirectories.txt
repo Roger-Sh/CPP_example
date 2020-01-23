@@ -1,0 +1,3 @@
+/home/roger/Dropbox/Code/04-CPP/02-cmake/ex1/build/CMakeFiles/edit_cache.dir
+/home/roger/Dropbox/Code/04-CPP/02-cmake/ex1/build/CMakeFiles/rebuild_cache.dir
+/home/roger/Dropbox/Code/04-CPP/02-cmake/ex1/build/CMakeFiles/hello.dir
