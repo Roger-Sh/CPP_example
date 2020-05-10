@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex3/ToDo.cc
+ToDo.h
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex3/ToDo.h
+
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex3/ToDo.h
+string
+-
+vector
+-
+
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex3/main.cc
+iostream
+-
+ToDo.h
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex3/ToDo.h
+

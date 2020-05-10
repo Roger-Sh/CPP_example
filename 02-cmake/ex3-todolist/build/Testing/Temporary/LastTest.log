@@ -1,0 +1,19 @@
+Start testing: Feb 18 16:42 CET
+----------------------------------------------------------
+1/1 Testing: toDoTest
+1/1 Test: toDoTest
+Command: "/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex3/build/toDo"
+Directory: /home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex3/build
+"toDoTest" start time: Feb 18 16:42 CET
+Output:
+----------------------------------------------------------
+Test passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"toDoTest" end time: Feb 18 16:42 CET
+"toDoTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 18 16:42 CET

@@ -1,0 +1,8 @@
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex4-add_subdirectory/build/CMakeFiles/test.dir
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex4-add_subdirectory/build/CMakeFiles/edit_cache.dir
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex4-add_subdirectory/build/CMakeFiles/rebuild_cache.dir
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex4-add_subdirectory/build/CMakeFiles/toDo.dir
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex4-add_subdirectory/build/ToDoCore/CMakeFiles/test.dir
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex4-add_subdirectory/build/ToDoCore/CMakeFiles/edit_cache.dir
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex4-add_subdirectory/build/ToDoCore/CMakeFiles/rebuild_cache.dir
+/home/fog-ws/Dropbox/Code/04-CPP/02-cmake/ex4-add_subdirectory/build/ToDoCore/CMakeFiles/toDoCore.dir

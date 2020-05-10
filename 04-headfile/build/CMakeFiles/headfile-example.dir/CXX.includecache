@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Circle.h
+
+/home/fog-ws/Dropbox/Code/04-CPP/04-headfile/src/Circle.cpp
+Circle.h
+/home/fog-ws/Dropbox/Code/04-CPP/04-headfile/src/Circle.h
+
+/home/fog-ws/Dropbox/Code/04-CPP/04-headfile/src/main.cpp
+iostream
+-
+Circle.h
+/home/fog-ws/Dropbox/Code/04-CPP/04-headfile/src/Circle.h
+

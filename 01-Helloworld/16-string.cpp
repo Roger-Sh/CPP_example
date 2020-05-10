@@ -39,6 +39,12 @@ int main ()
         str6 = str4 + str5;
         cout << str6 << endl;
     }
-    
+   
+    char key_unmerged[20] = "merged_wall";
+    char key_unmerged_new[20];
+    sprintf(key_unmerged_new, "%s%s_%d", "un", key_unmerged,1);
+    std::cout << key_unmerged_new << std::endl;
+
+
     return 0;
 }
