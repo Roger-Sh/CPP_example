@@ -1,0 +1,3 @@
+/home/fog-ws/Dropbox/Code/10-Couchbase/02-libcouchbase-cxx/tests/CMakeFiles/edit_cache.dir
+/home/fog-ws/Dropbox/Code/10-Couchbase/02-libcouchbase-cxx/tests/CMakeFiles/rebuild_cache.dir
+/home/fog-ws/Dropbox/Code/10-Couchbase/02-libcouchbase-cxx/tests/CMakeFiles/redef_test.dir

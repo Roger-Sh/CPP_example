@@ -1,0 +1,4 @@
+/home/fog-ws/Dropbox/Code/10-Couchbase/02-cxx_test/build/CMakeFiles/test.dir
+/home/fog-ws/Dropbox/Code/10-Couchbase/02-cxx_test/build/CMakeFiles/rebuild_cache.dir
+/home/fog-ws/Dropbox/Code/10-Couchbase/02-cxx_test/build/CMakeFiles/edit_cache.dir
+/home/fog-ws/Dropbox/Code/10-Couchbase/02-cxx_test/build/CMakeFiles/cxx_test.dir

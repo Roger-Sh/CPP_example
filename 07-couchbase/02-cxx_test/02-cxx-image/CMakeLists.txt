@@ -1,0 +1,45 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8.9)
+PROJECT(couchbase-cxx-image)
+
+add_compile_options(-std=c++11)
+
+find_package(nlohmann_json 3.2.0 REQUIRED)
+## find_package(PCL 1.7 REQUIRED)
+find_package(OpenCV 3.0 REQUIRED)
+
+
+
+## include_directories(${PCL_INCLUDE_DIRS})
+## link_directories(${PCL_LIBRARY_DIRS})
+## add_definitions(${PCL_DEFINITIONS})
+
+INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR}/include)
+INCLUDE_DIRECTORIES(
+    include
+    ${OpenCV_INCLUDE_DIRS}
+)
+
+
+IF(NOT MSVC)
+    SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -Wall -pedantic")
+ENDIF()
+
+
+
+SET(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR})
+SET(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/lib)
+
+
+IF(WIN32)
+    SET(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR})
+    ADD_DEFINITIONS(-D_CRT_SECURE_NO_WARNINGS)
+ELSE()
+    SET(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/lib)
+ENDIF()
+
+
+
+ADD_EXECUTABLE(cxx_image src/cxx_image.cpp)
+TARGET_LINK_LIBRARIES(cxx_image couchbase nlohmann_json::nlohmann_json ${PCL_LIBRARIES} ${OpenCV_LIBRARIES}) 
+
+ENABLE_TESTING()

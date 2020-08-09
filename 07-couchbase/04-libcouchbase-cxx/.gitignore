@@ -1,0 +1,8 @@
+example
+sample
+mt
+*.o
+*.so
+doc/public
+doc/internal
+build/
