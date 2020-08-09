@@ -1,0 +1,4 @@
+/home/fog-ws/Dropbox/Code/11-CV/02-image2base64/build/CMakeFiles/test.dir
+/home/fog-ws/Dropbox/Code/11-CV/02-image2base64/build/CMakeFiles/edit_cache.dir
+/home/fog-ws/Dropbox/Code/11-CV/02-image2base64/build/CMakeFiles/rebuild_cache.dir
+/home/fog-ws/Dropbox/Code/11-CV/02-image2base64/build/CMakeFiles/image2base64.dir

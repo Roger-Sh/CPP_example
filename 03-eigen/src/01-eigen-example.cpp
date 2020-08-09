@@ -44,6 +44,6 @@ int main()
     Eigen::ArrayXXf a3 = Eigen::ArrayXXf::Zero(3, 4);
     std::cout << a3 << std::endl;
 
-    Eigen::MatrixX m3 = Eigen::Matrix::Zero(int, 480, 640);
-    std::cout << m3 << std::endl;
+//    Eigen::MatrixX m3 = Eigen::Matrix::Zero(int, 480, 640);
+//    std::cout << m3 << std::endl;
 }

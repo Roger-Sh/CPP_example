@@ -1,4 +1,4 @@
-# Install script for directory: /home/fog-ws/Dropbox/Code/04-CPP/03-eigen
+# Install script for directory: /home/roger/Dropbox/Code/04-CPP/03-eigen
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/fog-ws/Dropbox/Code/04-CPP/03-eigen/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/roger/Dropbox/Code/04-CPP/03-eigen/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
